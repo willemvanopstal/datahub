@@ -63,7 +63,7 @@ digital_analytics_program:
 
 # Hypothesis.io - Annotator
 hypothesis:
-  enabled: true
+  enabled: false
 
 # Twitter
 twittercard:
