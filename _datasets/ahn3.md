@@ -6,7 +6,7 @@ notes: "Actual heights in the Netherlands.\r\n\r\nAbove links will redirect you 
 resources:
   - name: 2m DEM
     url: 'https://www.pdok.nl/nl/ahn3-downloads'
-    format: tif
+    format: WCS
   - name: 5m DEM
     url: 'https://www.pdok.nl/nl/ahn3-downloads'
     format: tif
