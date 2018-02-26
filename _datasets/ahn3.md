@@ -6,14 +6,16 @@ notes: "Actual heights in the Netherlands.\r\n\r\nAbove links will redirect you 
 resources:
   - name: 2m DEM
     url: 'https://www.pdok.nl/nl/ahn3-downloads'
-    format: json
+    format: tif
   - name: 5m DEM
     url: 'https://www.pdok.nl/nl/ahn3-downloads'
-    format: api
+    format: tif
   - name: LAZ
     url: 'https://www.pdok.nl/nl/ahn3-downloads'
-    format: csv
+    format: laz
 license: ''
+category:
+  - Uncategorized
 maintainer: ''
 maintainer_email: ''
 ---
