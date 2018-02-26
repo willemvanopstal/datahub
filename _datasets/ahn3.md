@@ -15,7 +15,7 @@ resources:
     format: laz
 license: ''
 category:
-  - Uncategorized
+  - Elevation
 maintainer: ''
 maintainer_email: ''
 ---
