@@ -1,9 +1,9 @@
-- name: Elevation
-  logo: /img/categories/terrain.svg
+- name: Arts / Culture / History
+  logo: /img/categories/arts-culture-history.svg
   logo_credit: ''
   featured: true
-- name: Budget / Finance
-  logo: /img/categories/budget-finance.svg
+- name: Pointcloud
+  logo: /img/categories/pointcloud.svg
   logo_credit: Renan Ferreira Santos from the Noun Project
   featured: true
 - name: Economy
@@ -53,8 +53,4 @@
 - name: Uncategorized
   logo: /img/categories/uncategorized.svg
   logo_credit: Edward Boatman from the Noun Project
-  featured: true
-- name: Pointcloud
-  logo: /img/categories/pointcloud.svg
-  logo_credit: ''
   featured: true
