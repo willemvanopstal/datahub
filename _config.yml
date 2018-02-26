@@ -1,6 +1,6 @@
-title: JKAN
-greeting: Welcome to JKAN
-description: A lightweight, backend-free open data portal, powered by Jekyll.
+title: GEOS Data
+greeting: Hello! Welcome to the GEOS datahub
+description: A collection of helpfull datalocations, data portals and datasets.
 baseurl: /jkan
 logo: /img/jkan.png
 
