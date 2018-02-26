@@ -1,5 +1,5 @@
-- name: Arts / Culture / History
-  logo: /img/categories/arts-culture-history.svg
+- name: Elevation
+  logo: /img/categories/terrain.svg
   logo_credit: ''
   featured: true
 - name: Pointcloud
