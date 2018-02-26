@@ -49,6 +49,16 @@ resource_fields:
       - kmz
       - shp
       - xml
+      - tif
+      - jpeg
+      - png
+      - las
+      - laz
+      - WMS
+      - WFS
+      - WCS
+      - WMTS
+      - txt
 
 organization_fields:
   - field_name: title
