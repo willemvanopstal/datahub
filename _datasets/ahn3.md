@@ -16,6 +16,7 @@ resources:
 license: ''
 category:
   - Elevation
+  - Pointcloud
 maintainer: ''
 maintainer_email: ''
 ---
