@@ -21,12 +21,12 @@ dataset_fields:
     form_template: form/category.html
     display_template: display/category.html
     datajson: category
-  - field_name: maintainer
-    label: Maintainer
-    datajson: contactPoint.fn
-  - field_name: maintainer_email
-    label: Maintainer Email
-    datajson: contactPoint.hasEmail
+#  - field_name: maintainer
+#    label: Maintainer
+#    datajson: contactPoint.fn
+#  - field_name: maintainer_email
+#    label: Maintainer Email
+#    datajson: contactPoint.hasEmail
 
 resource_fields:
   - field_name: name
@@ -59,6 +59,7 @@ resource_fields:
       - WCS
       - WMTS
       - txt
+      - gml
 
 organization_fields:
   - field_name: title
