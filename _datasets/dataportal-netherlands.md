@@ -2,7 +2,7 @@
 schema: default
 title: Dataportal Netherlands
 organization: Dutch Government
-notes: ''
+notes: first words
 resources:
   - name: Dataportal
     url: 'http://www.nationaalgeoregister.nl'
