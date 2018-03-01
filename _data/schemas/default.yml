@@ -40,12 +40,12 @@ resource_fields:
     datajson: distribution.format
     form_template: form/dropdown.html
     values:
-      - [] TEXT BASED []
+      - TEXT BASED
       - json
       - geojson
       - csv
       - txt
-      - <XML BASED>
+      - XMLBASED
       - xml
       - gml
       - gpx
