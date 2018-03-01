@@ -1,6 +1,7 @@
 ---
 schema: default
-title: Navionics
+title: National Georegistry Netherlands
 description: ''
-logo: 'https://www.fugawi.com/uploads/fugawi_shop/image/path/16/Navionics.png'
+logo: >-
+  http://www.nationaalgeoregister.nl/geonetwork/catalog/views/ngr/images/NGRlogo.png
 ---
