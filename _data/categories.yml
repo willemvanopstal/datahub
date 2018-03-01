@@ -85,8 +85,8 @@
 - name: Education
   logo: /img/categories/education.svg
   logo_credit: 'unknown'
-  featured: none
+  featured: true
 - name: Uncategorized
   logo: /img/categories/uncategorized.svg
   logo_credit: 'unknown'
-  featured: none
+  featured: false
