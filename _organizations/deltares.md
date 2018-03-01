@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Geonovum
+title: ANWB
 description: ''
-logo: 'https://www.geonovum.nl/sites/all/themes/insiders/logo.png'
+logo: 'https://www.werkenbijanwb.nl/imgs/og-image-facebook.png'
 ---
