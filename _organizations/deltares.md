@@ -1,7 +1,6 @@
 ---
 schema: default
-title: National Georegistry Netherlands
+title: Geonovum
 description: ''
-logo: >-
-  http://www.nationaalgeoregister.nl/geonetwork/catalog/views/ngr/images/NGRlogo.png
+logo: 'https://www.geonovum.nl/sites/all/themes/insiders/logo.png'
 ---
