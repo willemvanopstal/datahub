@@ -1,11 +1,11 @@
 title: GEOS Data
-greeting: Hello! Welcome to the GEOS datahub
+greeting: GEOS Datahub
 description: A collection of helpfull datalocations, data portals and datasets.
 baseurl: /jkan
 logo: /img/jkan.png
 
 # Site theme
-jkan_theme: Lumen
+jkan_theme: Readable
 
 # Authentication
 github_client_id: ffba000e1a7b8b8e5ff9
