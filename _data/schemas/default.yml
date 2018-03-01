@@ -40,6 +40,8 @@ resource_fields:
     datajson: distribution.format
     form_template: form/dropdown.html
     values:
+      - api
+      - html
       - []
       - TEXTBASED
       - json
