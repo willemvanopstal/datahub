@@ -6,7 +6,10 @@ notes: Books by our faculty
 resources:
   - name: homepage
     url: 'https://books.bk.tudelft.nl/index.php/press'
-    format: img+wld
+    format: html
+  - name: Books on data modelling
+    url: 'https://books.bk.tudelft.nl/index.php/press/catalog/category/DATA'
+    format: html
 license: ''
 category:
   - Education
