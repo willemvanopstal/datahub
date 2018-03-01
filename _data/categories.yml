@@ -1,56 +1,86 @@
+- name: Borders
+  logo: /img/categories/borders.svg
+  logo_credit: 'senegal by Anneka Van Scoyoc from the Noun Project'
+  featured: true
 - name: Elevation
-  logo: /img/categories/terrain.svg
-  logo_credit: ''
+  logo: /img/categories/elavation.svg
+  logo_credit: 'elevation by Jolan Soens from the Noun Project'
   featured: true
-- name: Pointcloud
-  logo: /img/categories/pointcloud.svg
-  logo_credit: Renan Ferreira Santos from the Noun Project
+- name: Infrastructure
+  logo: /img/categories/infrastructure.svg
+  logo_credit: 'infrastructure by sevgenjory from the Noun Project'
   featured: true
-- name: Economy
-  logo: /img/categories/economy.svg
-  logo_credit: Vectors Market from the Noun Project
+- name: Roads
+  logo: /img/categories/roads.svg
+  logo_credit: 'Road by Daria Moskvina from the Noun Project'
   featured: true
-- name: Education
-  logo: /img/categories/education.svg
-  logo_credit: Sergey Patutin from the Noun Project
+- name: Water
+  logo: /img/categories/water.svg
+  logo_credit: 'Water by Alessandro Suraci from the Noun Project'
   featured: true
-- name: Elections / Politics
-  logo: /img/categories/elections-politics.svg
-  logo_credit: Jean Soo from the Noun Project
+- name: Meteorology / Air Quality
+  logo: /img/categories/meteorology.svg
+  logo_credit: 'climate by Yu luck from the Noun Project'
+  featured: true
+- name: Database
+  logo: /img/categories/database.svg
+  logo_credit: 'database by Creative Stall from the Noun Project'
+  featured: true
+- name: Facilities / Landmarks
+  logo: /img/categories/landmark.svg
+  logo_credit: 'Pointer by K from the Noun Project'
+  featured: true
+- name: Public safety
+  logo: /img/categories/safety.svg
+  logo_credit: 'Safety by Dinosoft Labs from the Noun Project'
   featured: true
 - name: Environment
   logo: /img/categories/environment.svg
+  logo_credit: 'OCHA Visual Information Unit'
+  featured: true
+- name: Statistics / Census
+  logo: /img/categories/statistics.svg
+  logo_credit: 'statistics by BomSymbols from the Noun Project'
+  featured: true
+- name: Buildings
+  logo: /img/categories/buildings.svg
+  logo_credit: 'buildings by Alice Cerconi from the Noun Project'
+  featured: true
+- name: Indoor
+  logo: /img/categories/indoors.svg
+  logo_credit: 'Indoors by Jordan Gurrieri from the Noun Project'
+  featured: true
+- name: Linked data
+  logo: /img/categories/linked.svg
+  logo_credit: 'link by Ashwin Dinesh from the Noun Project'
+  featured: true
+- name: Pointclouds
+  logo: /img/categories/pointcloud.svg
   logo_credit: ''
   featured: true
-- name: Food
-  logo: /img/categories/food.svg
-  logo_credit: Creative Stall from the Noun Project
+- name: Catalogues
+  logo: /img/categories/archive.svg
+  logo_credit: 'archive by arejoenah from the Noun Project'
   featured: true
-- name: Health / Human Services
-  logo: /img/categories/health-human-services.svg
-  logo_credit: Timothy Miller from the Noun Project
+- name: Viewer
+  logo: /img/categories/viewer.svg
+  logo_credit: 'views by AlfredoCreates.com/Icons from the Noun Project'
   featured: true
-- name: Parks / Recreation
-  logo: /img/categories/parks-recreation.svg
-  logo_credit: Pipe Rosas Licht from the Noun Project
-  featured: true
-- name: Planning / Zoning
+- name: Zoning / Planning
   logo: /img/categories/planning-zoning.svg
-  logo_credit: ''
+  logo_credit: 'jkan original'
   featured: true
-- name: Public Safety
-  logo: /img/categories/public-safety.svg
-  logo_credit: Rohith M S from the Noun Project
+- name: Nuts
+  logo: /img/categories/energy.svg
+  logo_credit: 'Energy by David from the Noun Project'
   featured: true
-- name: Real Estate / Land Records
-  logo: /img/categories/real-estate-land-records.svg
-  logo_credit: ''
+- name: Sensors
+  logo: /img/categories/sensor.svg
+  logo_credit: 'sensor by Dalpat Prajapati from the Noun Project'
   featured: true
-- name: Transportation
-  logo: /img/categories/transportation.svg
-  logo_credit: Dmitry Baranovskiy from the Noun Project
+- name: WMS / WFS
+  logo: /img/categories/web.svg
+  logo_credit: 'web by Petr Papasov from the Noun Project'
   featured: true
-- name: Uncategorized
-  logo: /img/categories/uncategorized.svg
-  logo_credit: Edward Boatman from the Noun Project
-  featured: true
+
+  
