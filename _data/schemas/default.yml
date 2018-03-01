@@ -40,26 +40,37 @@ resource_fields:
     datajson: distribution.format
     form_template: form/dropdown.html
     values:
-      - api
-      - csv
       - json
       - geojson
-      - html
-      - kml
-      - kmz
-      - shp
+      - csv
+      - txt
+      
       - xml
-      - tif
-      - jpeg
-      - png
+      - gml
+      - gpx
+      - kmz
+      - html
+      
       - las
       - laz
+      - xyz
+      
+      - shp
+      - esriGrid
+      - netCDF
+      
+      - tif
+      - geotiff
+      - jpeg
+      - png
+      - img+wld
+      
       - WMS
       - WFS
-      - WCS
       - WMTS
-      - txt
-      - gml
+      - WCS
+      - Viewer
+      - tiles
 
 organization_fields:
   - field_name: title
