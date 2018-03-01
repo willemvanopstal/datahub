@@ -63,6 +63,7 @@ resource_fields:
       - shp
       - esriGrid
       - netCDF
+      - ifc
       - []
       - IMAGES
       - tif
