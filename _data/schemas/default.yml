@@ -46,6 +46,7 @@ resource_fields:
       - geojson
       - csv
       - txt
+      - xls/x
       - []
       - XMLBASED
       - xml
@@ -64,6 +65,8 @@ resource_fields:
       - esriGrid
       - netCDF
       - ifc
+      - binary
+      - db
       - []
       - IMAGES
       - tif
