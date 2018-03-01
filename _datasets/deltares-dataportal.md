@@ -15,5 +15,6 @@ resources:
     format: html
 license: ''
 category:
+  - Water
   - Catalogues
 ---
