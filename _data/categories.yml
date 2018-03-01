@@ -18,7 +18,7 @@
   logo: /img/categories/water.svg
   logo_credit: 'Water by Alessandro Suraci from the Noun Project'
   featured: true
-- name: Meteorology / Air Quality
+- name: Meteorology / Air
   logo: /img/categories/meteorology.svg
   logo_credit: 'climate by Yu luck from the Noun Project'
   featured: true
@@ -82,5 +82,7 @@
   logo: /img/categories/web.svg
   logo_credit: 'web by Petr Papasov from the Noun Project'
   featured: true
-
-  
+- name: Uncategorized
+  logo: /img/categories/uncategorized.svg
+  logo_credit: 'unknown'
+  featured: none
