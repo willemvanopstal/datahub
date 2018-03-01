@@ -40,31 +40,32 @@ resource_fields:
     datajson: distribution.format
     form_template: form/dropdown.html
     values:
+      - <TEXT BASED>
       - json
       - geojson
       - csv
       - txt
-      
+      - <XML BASED>
       - xml
       - gml
       - gpx
       - kmz
       - html
-      
+      - <POINTCLOUDS>
       - las
       - laz
       - xyz
-      
+      - <PROPRIETARY>
       - shp
       - esriGrid
       - netCDF
-      
+      - <IMAGES>
       - tif
       - geotiff
       - jpeg
       - png
       - img+wld
-      
+      - <WEBSERVICES>
       - WMS
       - WFS
       - WMTS
