@@ -1,58 +1,58 @@
 - name: Borders
   logo: /img/categories/borders.svg
-  logo_credit: 'senegal by Anneka Van Scoyoc from the Noun Project'
+  logo_credit: senegal by Anneka Van Scoyoc from the Noun Project
   featured: true
 - name: Elevation
   logo: /img/categories/elevation.svg
-  logo_credit: 'elevation by Jolan Soens from the Noun Project'
+  logo_credit: elevation by Jolan Soens from the Noun Project
   featured: true
 - name: Infrastructure
   logo: /img/categories/infrastructure.svg
-  logo_credit: 'infrastructure by sevgenjory from the Noun Project'
+  logo_credit: infrastructure by sevgenjory from the Noun Project
   featured: true
 - name: Roads
   logo: /img/categories/roads.svg
-  logo_credit: 'Road by Daria Moskvina from the Noun Project'
+  logo_credit: Road by Daria Moskvina from the Noun Project
   featured: true
 - name: Water
   logo: /img/categories/water.svg
-  logo_credit: 'Water by Alessandro Suraci from the Noun Project'
+  logo_credit: Water by Alessandro Suraci from the Noun Project
   featured: true
 - name: Meteorology / Air
   logo: /img/categories/meteorology.svg
-  logo_credit: 'climate by Yu luck from the Noun Project'
+  logo_credit: climate by Yu luck from the Noun Project
   featured: true
 - name: Database
   logo: /img/categories/database.svg
-  logo_credit: 'database by Creative Stall from the Noun Project'
+  logo_credit: database by Creative Stall from the Noun Project
   featured: true
 - name: Facilities / Landmarks
   logo: /img/categories/landmark.svg
-  logo_credit: 'Pointer by K from the Noun Project'
+  logo_credit: Pointer by K from the Noun Project
   featured: true
 - name: Public safety
   logo: /img/categories/safety.svg
-  logo_credit: 'Safety by Dinosoft Labs from the Noun Project'
+  logo_credit: Safety by Dinosoft Labs from the Noun Project
   featured: true
 - name: Environment
   logo: /img/categories/environment.svg
-  logo_credit: 'OCHA Visual Information Unit'
+  logo_credit: OCHA Visual Information Unit
   featured: true
 - name: Statistics / Census
   logo: /img/categories/statistics.svg
-  logo_credit: 'statistics by BomSymbols from the Noun Project'
+  logo_credit: statistics by BomSymbols from the Noun Project
   featured: true
 - name: Buildings
   logo: /img/categories/buildings.svg
-  logo_credit: 'buildings by Alice Cerconi from the Noun Project'
+  logo_credit: buildings by Alice Cerconi from the Noun Project
   featured: true
 - name: Indoor
   logo: /img/categories/indoors.svg
-  logo_credit: 'Indoors by Jordan Gurrieri from the Noun Project'
+  logo_credit: Indoors by Jordan Gurrieri from the Noun Project
   featured: true
 - name: Linked data
   logo: /img/categories/linked.svg
-  logo_credit: 'link by Ashwin Dinesh from the Noun Project'
+  logo_credit: link by Ashwin Dinesh from the Noun Project
   featured: true
 - name: Pointclouds
   logo: /img/categories/pointcloud.svg
@@ -60,33 +60,32 @@
   featured: true
 - name: Catalogues
   logo: /img/categories/archive.svg
-  logo_credit: 'archive by arejoenah from the Noun Project'
+  logo_credit: archive by arejoenah from the Noun Project
   featured: true
 - name: Viewer
   logo: /img/categories/viewer.svg
-  logo_credit: 'views by AlfredoCreates.com/Icons from the Noun Project'
+  logo_credit: views by AlfredoCreates.com/Icons from the Noun Project
   featured: true
 - name: Zoning / Planning
   logo: /img/categories/planning-zoning.svg
-  logo_credit: 'jkan original'
+  logo_credit: jkan original
   featured: true
 - name: Nuts
   logo: /img/categories/energy.svg
-  logo_credit: 'Energy by David from the Noun Project'
+  logo_credit: Energy by David from the Noun Project
   featured: true
 - name: Sensors
   logo: /img/categories/sensor.svg
-  logo_credit: 'sensor by Dalpat Prajapati from the Noun Project'
+  logo_credit: sensor by Dalpat Prajapati from the Noun Project
   featured: true
 - name: WMS / WFS
   logo: /img/categories/web.svg
-  logo_credit: 'web by Petr Papasov from the Noun Project'
+  logo_credit: web by Petr Papasov from the Noun Project
   featured: true
 - name: Education
   logo: /img/categories/education.svg
-  logo_credit: 'unknown'
+  logo_credit: unknown
   featured: true
 - name: Uncategorized
   logo: /img/categories/uncategorized.svg
-  logo_credit: 'unknown'
-  featured: false
+  logo_credit: unknown
