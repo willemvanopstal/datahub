@@ -40,32 +40,38 @@ resource_fields:
     datajson: distribution.format
     form_template: form/dropdown.html
     values:
-      - textingisbad
+      - []
+      - TEXTBASED
       - json
       - geojson
       - csv
       - txt
+      - []
       - XMLBASED
       - xml
       - gml
       - gpx
       - kmz
       - html
-      - <POINTCLOUDS>
+      - []
+      - POINTCLOUDS
       - las
       - laz
       - xyz
-      - <PROPRIETARY>
+      - []
+      - PROPRIETARY
       - shp
       - esriGrid
       - netCDF
-      - <IMAGES>
+      - []
+      - IMAGES
       - tif
       - geotiff
       - jpeg
       - png
       - img+wld
-      - <WEBSERVICES>
+      - []
+      - WEBSERVICES
       - WMS
       - WFS
       - WMTS
