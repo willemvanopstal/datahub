@@ -82,6 +82,10 @@
   logo: /img/categories/web.svg
   logo_credit: 'web by Petr Papasov from the Noun Project'
   featured: true
+- name: Education
+  logo: /img/categories/education.svg
+  logo_credit: 'unknown'
+  featured: none
 - name: Uncategorized
   logo: /img/categories/uncategorized.svg
   logo_credit: 'unknown'
