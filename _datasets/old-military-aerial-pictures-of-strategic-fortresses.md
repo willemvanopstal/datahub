@@ -2,7 +2,7 @@
 schema: default
 title: Old military aerial pictures of strategic fortresses
 organization: Dutch Government
-notes: ''
+notes: just pictures
 resources:
   - name: Imagery
     url: 'https://www.flickr.com/photos/nimhimages'
