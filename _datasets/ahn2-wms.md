@@ -2,7 +2,7 @@
 schema: default
 title: AHN2 WMS
 organization: PDOK
-notes: ahn wms services
+notes: "ahn wms services</br>\r\nYou should read the capabilities to specifiy the actual layer."
 resources:
   - name: 0.5m interpolated
     url: >-
