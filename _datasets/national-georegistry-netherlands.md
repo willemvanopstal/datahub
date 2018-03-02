@@ -2,7 +2,7 @@
 schema: default
 title: National Georegistry Netherlands
 organization: Nationaal Georegister Nederland
-notes: ''
+notes: national
 resources:
   - name: Catalogue
     url: 'http://nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/home'
