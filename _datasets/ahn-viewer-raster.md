@@ -2,7 +2,7 @@
 schema: default
 title: AHN Viewer
 organization: Actual Heights Netherlands
-notes: ''
+notes: ahn
 resources:
   - name: Raster viewer
     url: 'https://ahn.arcgisonline.nl/ahnviewer/'
