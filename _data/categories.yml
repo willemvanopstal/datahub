@@ -22,6 +22,10 @@
   logo: /img/categories/meteorology.svg
   logo_credit: climate by Yu luck from the Noun Project
   featured: true
+- name: Topography
+  logo: /img/categories/topography.svg
+  logo_credit: database by Creative Stall from the Noun Project
+  featured: true
 - name: Database
   logo: /img/categories/database.svg
   logo_credit: database by Creative Stall from the Noun Project
