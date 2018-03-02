@@ -2,7 +2,7 @@
 schema: default
 title: Deltares dataportal
 organization: Deltares
-notes: ''
+notes: Delft water institute
 resources:
   - name: Dataportal
     url: 'http://dataportal.deltares.nl/'
