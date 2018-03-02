@@ -86,6 +86,10 @@
   logo: /img/categories/education.svg
   logo_credit: unknown
   featured: true
+- name: Imagery
+  logo: /img/categories/satelite.svg
+  logo_credit: satelite by Setyo Ari Wibowo from the Noun Project
+  featured: true
 - name: Uncategorized
   logo: /img/categories/uncategorized.svg
   logo_credit: unknown
