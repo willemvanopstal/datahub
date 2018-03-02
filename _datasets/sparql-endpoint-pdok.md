@@ -2,7 +2,7 @@
 schema: default
 title: SPARQL Endpoint PDOK
 organization: PDOK
-notes: ''
+notes: desc
 resources:
   - name: Endpoint GUI
     url: 'https://data.pdok.nl/sparql'
