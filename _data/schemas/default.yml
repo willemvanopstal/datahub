@@ -62,11 +62,18 @@ resource_fields:
       - laz
       - xyz
       - []
+      - 3DFORMATS
+      - obj
+      - ifc
+      - bim
+      - 3dm
+      - mesh
+      - CityGML
+      - []
       - PROPRIETARY
       - shp
       - esriGrid
       - netCDF
-      - ifc
       - binary
       - db
       - []
