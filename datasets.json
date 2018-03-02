@@ -6,7 +6,7 @@
     "organization": {{ dataset.organization | jsonify }}{% if dataset.notes != "" %},
     "notes": {{ dataset.notes | jsonify }}{% endif %}{% if dataset.notes != "" %},
     "category": "{{ dataset.category | join: ' ' }}"{% endif %}{% if dataset.resources != "" %},
-    "resources": "{{dataset.resources['name'] | join: ' ' }}"{% endif %},
+    "resources": "{{dataset.resources.name | join: ' ' }}"{% endif %},
     "url": "{{ site.baseurl }}{{ dataset.url }}"
   }{% unless forloop.last %},{% endunless %}{% endfor %}
 ]
