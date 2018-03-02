@@ -52,7 +52,7 @@ export function collapseListGroup (container, show) {
   if (itemsToHide.length) {
     itemsToHide.hide()
 
-    const showMoreButton = $('<a href="#" class="morebutton list-group-item">Show ' + itemsToHide.length + ' more...</a>')
+    const showMoreButton = $('<a href="#" class="morebutton list-group-item">Showw ' + itemsToHide.length + ' more...</a>')
     showMoreButton.on('click', function (e) {
       itemsToHide.show()
       $(this).off('click')
