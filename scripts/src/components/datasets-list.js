@@ -60,6 +60,7 @@ export default class {
       const lowerCaseQuery = query.toLowerCase()
       return filter(datasets, function (dataset) {
         return keys.reduce(function (previousValue, key) {
+          console.log(key);
           return previousValue || (dataset[key] && dataset[key].toLowerCase().indexOf(lowerCaseQuery) !== -1)
         }, false)
       })
