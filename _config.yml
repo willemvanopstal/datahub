@@ -1,7 +1,7 @@
-title: GEOS Data
-greeting: GEOS Datahub
-description: A collection of helpfull datalocations, data portals and datasets.
-baseurl: /jkan
+title: Geomatics Datahub
+greeting: Geomatics Datahub
+description: A collection of useful datasets, portals, examples and documentation.
+baseurl: /datahub
 logo: /img/jkan.png
 
 # Site theme
