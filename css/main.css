@@ -6,6 +6,11 @@
   background-image: url('../img/texture.jpg');
 }
 
+.btn-lg {
+ background-color: grey;
+ border-color: black;
+}
+
 dataset {
   display: block;
   border-bottom: 1px #d6d6d6 solid;
