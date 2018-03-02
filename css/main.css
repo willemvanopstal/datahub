@@ -95,6 +95,10 @@ dataset {
   padding: 10px;
 }
 
+.homepage-categories .thumbnail:hover {
+  fill: green;
+}
+
 .homepage-categories .thumbnail img {
   height: 80px;
 }
