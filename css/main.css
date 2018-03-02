@@ -7,6 +7,10 @@
   border-color: #454545;
 }
 
+.highlighted {
+  background-color: rgba(0,0,0,.5);
+}
+
 .btn-lg {
   background-color: #545454; 
   border-color: #454545; 
