@@ -8,11 +8,11 @@
 }
 
 .highlighted {
-  background-color: rgba(250, 250, 250,.75);
+  background-color: rgba(250, 250, 250,.8);
 }
 
 .highlightedcaption {
-  background-color: rgba(250, 250, 250,.5);
+  background-color: rgba(250, 250, 250,.8);
 }
 
 .btn-lg {
