@@ -45329,12 +45329,11 @@
 	  _createClass(_class, [{
 	    key: '_createSearchFunction',
 	    value: function _createSearchFunction(datasets) {
-	      var keys = ['title', 'category'];
+	      var keys = ['title', 'notes', 'searchcats'];
 	      return function (query) {
 	        var lowerCaseQuery = query.toLowerCase();
 	        return (0, _lodash.filter)(datasets, function (dataset) {
 	          return keys.reduce(function (previousValue, key) {
-	            console.log(key);
 	            return previousValue || dataset[key] && dataset[key].toLowerCase().indexOf(lowerCaseQuery) !== -1;
 	          }, false);
 	        });
@@ -57531,7 +57530,7 @@
   \**************************************/
 /***/ (function(module, exports, __webpack_require__) {
 
-	var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;var require;var require;/*!
+	var require;var require;var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;/*!
 	 * Select2 4.0.5
 	 * https://select2.github.io
 	 *
