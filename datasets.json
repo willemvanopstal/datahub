@@ -5,7 +5,7 @@
     "title": {{ dataset.title | jsonify }},
     "organization": {{ dataset.organization | jsonify }}{% if dataset.notes != "" %},
     "notes": {{ dataset.notes | jsonify }}{% endif %}{% if dataset.notes != "" %},
-    "searchrec": "{{ dataset.resources | join ' ' }}"{% endif %}{% if dataset.notes != "" %},
+    "searchrec": "{{ dataset.resource.name | join ' ' }}"{% endif %}{% if dataset.notes != "" %},
     "searchcats": "{{ dataset.category | join ' ' }}"{% endif %}{% if dataset.notes != "" %},
     "category": {{ dataset.category | jsonify }}{% endif %},
     "url": "{{ site.baseurl }}{{ dataset.url }}"
