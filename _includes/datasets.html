@@ -2,5 +2,6 @@
 <dataset>
   <h3><a href="{{ site.baseurl }}{{ dataset.url }}">{{ dataset.title }}</a></h3>
   {{ dataset.notes | split: "<!-- break -->" | first }}
+  {{ dataset.caption }}
 </dataset>
 {% endfor %}
