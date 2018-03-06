@@ -20,6 +20,8 @@ navigation:
     url: /datasets/
   - title: Organizations
     url: /organizations/
+  - title: Collaborate
+    url: /collaborate/
 
 # Collections
 collections:
@@ -63,7 +65,7 @@ digital_analytics_program:
 
 # Hypothesis.io - Annotator
 hypothesis:
-  enabled: false
+  enabled: true
 
 # Twitter
 twittercard:
