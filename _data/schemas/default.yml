@@ -91,6 +91,9 @@ resource_fields:
       - WCS
       - Viewer
       - tiles
+  - field_name: description
+    label: Description
+    datajson: distribution.description
 
 organization_fields:
   - field_name: title
