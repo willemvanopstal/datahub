@@ -7,6 +7,7 @@ resources:
   - name: homepage
     url: 'https://books.bk.tudelft.nl/index.php/press'
     format: html
+    description: new description
   - name: Books on data modelling
     url: 'https://books.bk.tudelft.nl/index.php/press/catalog/category/DATA'
     format: html
