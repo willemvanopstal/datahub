@@ -5,9 +5,9 @@
     "title": {{ dataset.title | jsonify }},
     "organization": {{ dataset.organization | jsonify }}{% if dataset.notes != "" %},
     "notes": {{ dataset.notes | jsonify }}{% endif %}{% if dataset.notes != "" %},
-    "searchrec": "{{ dataset.resource.name | join ' ' }}"{% endif %}{% if dataset.notes != "" %},
-    "caption": "{{ dataset.notes | strip_newlines | strip_html | truncate: 10 }}"{% endif %}{% if dataset.notes != "" %},
-    "searchcats": "{{ dataset.category | join ' ' }}"{% endif %}{% if dataset.notes != "" %},
+    "caption": "{{ dataset.notes | strip_newlines | strip_html | truncate: 75 }}"{% endif %}{% if dataset.notes != "" %},
+    "searchcats": {{ dataset.category | join " " | jsonify }}{% endif %}{% if dataset.notes != "" %},
+    "searchrec": "{% for resource in dataset.resources %}{{ resource.name }}{{ resource.url }}{{ resource.format }}{% endfor %}"{% endif %}{% if dataset.notes != "" %},
     "category": {{ dataset.category | jsonify }}{% endif %},
     "url": "{{ site.baseurl }}{{ dataset.url }}"
   }{% unless forloop.last %},{% endunless %}{% endfor %}
